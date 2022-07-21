@@ -1,0 +1,8 @@
+main: dev.rockmiu.ml.main.Rockmiu
+name: Killeffect
+version: 3.3
+author: Ocean
+description: 9
+commands:
+  killeffect:
+    description: Main command
