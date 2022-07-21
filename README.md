@@ -1,5 +1,5 @@
 # killeffect Simple :D
-  ===***Infomations:***
+  ===***Infomations:***  
   ===creator: OceanTW, XiaoMingQiu
 ---
 > 使用規範  
