@@ -1,8 +1,11 @@
-# killeffect Simple :D  
-  ## ***Infomations:***  
+killeffect Simple :D
+===== 
+## ***Infomations:***  
    creator: OceanTW, XiaoMingQiu
-   version: 127.0.0.1-Snapask  
-   depends: **NONE**
+   version: 127.0.0.1-Snapask (Rockmiu 協作版:D)
+   **Rockmiu Network 擁有修改, 編輯 聲稱插件歸屬...etc 任何權限。**
+   ***;D*** 
+  depends: **NONE**
 ---
 > ### ***使用教學:***  
 > ### **主要指令:**  
