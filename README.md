@@ -1,7 +1,6 @@
 # killeffect Simple :D
-
-##  **Kill effect**  
-  ==creator: OceanTW, XiaoMingQiu==
+  ===***Infomations:***
+  ===creator: OceanTW, XiaoMingQiu
 ---
 > 使用規範  
 > 你媽
