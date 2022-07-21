@@ -1,2 +1,2 @@
 # killeffect
-ez
+> ez
