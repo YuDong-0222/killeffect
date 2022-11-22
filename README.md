@@ -1,4 +1,4 @@
-#killeffect Simple version :D
+# KillEffect Simple version :D
 
 ## ***Infomations:***  
    creator: XiaoMingQiu    
