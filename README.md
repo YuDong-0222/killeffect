@@ -6,6 +6,7 @@
    **Rockmiu Network 擁有修改, 編輯 聲稱插件歸屬...etc 任何權限。**    
    ***;D***   
   depends: **NONE**    
+  describe: **A simple pkugin core for basic plugin .You can use this to edit or code it yourself.You can sell or do anything you want be cause this is a basic frame**
 
 ## ***使用教學:***  
 > ### **主要指令:**  
