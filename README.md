@@ -1,4 +1,4 @@
-# KillEffect Simple version :D
+# KillEffect Simple frame [Basic plugin frame]
 
 ## ***Infomations:***  
    creator: XiaoMingQiu    
